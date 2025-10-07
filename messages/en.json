@@ -11,6 +11,8 @@
         "signout": "Sign Out"
     },
     "projects": {
-        "example_project": "Example-Project"
+        "example_project": "Example-Project",
+        "error_meesage_project_name_too_short": "Project name is too short. It must contain at least 3 characters.",
+        "project_created": "The project {name} was successfully created."
     }
 }

@@ -11,6 +11,8 @@
         "signout": "Abmelden"
     },
     "projects": {
-        "example_project": "Beispiel-Projekt"
+        "example_project": "Beispiel-Projekt",
+        "error_meesage_project_name_too_short": "Der Projektname ist zu kurz. Er muss mindestens 3 Zeichen enthalten.",
+        "project_created": "Das Projekt {name} wurde erfolgreich angelegt."
     }
 }
