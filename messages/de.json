@@ -1,0 +1,16 @@
+{
+    "common": {
+        "projects": "Projekte",
+        "add": "Hinzufügen"
+    },
+    "login": {
+        "title": "Melde dich an",
+        "title_description": "Trage deine E-Mail Adresse ein, um dich anzumelden",
+        "email_address": "E-Mail Adresse",
+        "get_magic_link": "Erhalte deinen Magic-Link",
+        "signout": "Abmelden"
+    },
+    "projects": {
+        "example_project": "Beispiel-Projekt"
+    }
+}

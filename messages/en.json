@@ -1,0 +1,16 @@
+{
+    "common": {
+        "projects": "Projects",
+        "add": "Add"
+    },
+    "auth": {
+        "title": "Login to your account",
+        "title_description": "Enter your email below to login to your account",
+        "email_address": "E-Mail Address",
+        "get_magic_link": "Get your Magic-Link",
+        "signout": "Sign Out"
+    },
+    "projects": {
+        "example_project": "Example-Project"
+    }
+}
